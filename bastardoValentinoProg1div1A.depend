@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635164840 source:c:\users\valen\desktop\utn\bastardovalentinoprog1div1a\datanotebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dataNotebooks.h"
+
+1635164840 c:\users\valen\desktop\utn\bastardovalentinoprog1div1a\datanotebooks.h
+
